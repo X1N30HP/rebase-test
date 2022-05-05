@@ -1,1 +1,3 @@
 This is a dummy text file jiust to test the rebase command.
+
+Adding this line for commit number 1.
