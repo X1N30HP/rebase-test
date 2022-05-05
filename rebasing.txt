@@ -7,3 +7,5 @@ Adding another line for commit number 2.
 Hey, I am evil and i'm tryng to create a conflict to rebase!!!
 
 I'm very evil...
+
+MUAHAHAHAHAHAHHAHAH
